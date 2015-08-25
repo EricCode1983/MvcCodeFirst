@@ -1,0 +1,8 @@
+C:\For Local\Day 7\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\For Local\Day 7\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\For Local\Day 7\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\For Local\Day 7\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessEntities\obj\Debug\BusinessEntities.pdb

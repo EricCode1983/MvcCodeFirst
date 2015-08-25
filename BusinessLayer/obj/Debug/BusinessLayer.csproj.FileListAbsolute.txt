@@ -1,0 +1,28 @@
+C:\For Local\Day 7\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\For Local\Day 7\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\For Local\Day 7\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\For Local\Day 7\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\For Local\Day 7\BusinessLayer\bin\Debug\BusinessEntities.dll
+C:\For Local\Day 7\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\For Local\Day 7\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\For Local\Day 7\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\For Local\Day 7\BusinessLayer\bin\Debug\BusinessEntities.pdb
+C:\For Local\Day 7\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\For Local\Day 7\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\For Local\Day 7\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\For Local\Day 7\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\For Local\Day 7\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\BusinessLayer\obj\Debug\BusinessLayer.pdb

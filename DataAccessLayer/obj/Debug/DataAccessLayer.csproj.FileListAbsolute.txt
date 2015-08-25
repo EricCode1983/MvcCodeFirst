@@ -1,0 +1,24 @@
+C:\For Local\Day 7\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\For Local\Day 7\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\For Local\Day 7\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\For Local\Day 7\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\For Local\Day 7\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\For Local\Day 7\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\For Local\Day 7\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\For Local\Day 7\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\For Local\Day 7\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\For Local\Day 7\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\For Local\Day 7\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\For Local\Day 7\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

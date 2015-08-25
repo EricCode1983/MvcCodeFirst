@@ -1,0 +1,9 @@
+C:\For Local\Day 7\ViewModel\bin\Debug\ViewModel.dll
+C:\For Local\Day 7\ViewModel\bin\Debug\ViewModel.pdb
+C:\For Local\Day 7\ViewModel\obj\Debug\ViewModel.dll
+C:\For Local\Day 7\ViewModel\obj\Debug\ViewModel.pdb
+C:\For Local\Day 7\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\ViewModel\obj\Debug\ViewModel.pdb

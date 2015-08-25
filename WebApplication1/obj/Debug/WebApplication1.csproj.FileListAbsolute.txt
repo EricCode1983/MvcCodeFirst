@@ -1,0 +1,292 @@
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\WebGrease.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\MVC 5 7 days\Source Code\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\From Local\Source Code\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\From Local\Source Code\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\From Local\Source Code\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\From Local\Source Code\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\WebApplication1.dll.config
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\WebApplication1.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\WebApplication1.pdb
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\Antlr3.Runtime.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\Newtonsoft.Json.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.Helpers.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.Mvc.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.Optimization.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.Razor.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.WebPages.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\WebGrease.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.Helpers.xml
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.Mvc.xml
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.Optimization.xml
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.Razor.xml
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.WebPages.xml
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\Newtonsoft.Json.xml
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\obj\Debug\WebApplication1.dll
+C:\From Local\Source Code\Strongly Typed View\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\From Local\Source Code\View Model\WebApplication1\bin\WebApplication1.dll.config
+C:\From Local\Source Code\View Model\WebApplication1\bin\WebApplication1.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\WebApplication1.pdb
+C:\From Local\Source Code\View Model\WebApplication1\bin\Antlr3.Runtime.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\Newtonsoft.Json.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.Helpers.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.Mvc.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.Optimization.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.Razor.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.WebPages.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\WebGrease.dll
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.Helpers.xml
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.Mvc.xml
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.Optimization.xml
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.Razor.xml
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.WebPages.xml
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\From Local\Source Code\View Model\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\From Local\Source Code\View Model\WebApplication1\bin\Newtonsoft.Json.xml
+C:\From Local\Source Code\View Model\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\From Local\Source Code\View Model\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\From Local\Source Code\View Model\WebApplication1\obj\Debug\WebApplication1.dll
+C:\From Local\Source Code\View Model\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\From Local\Source Code\Collections\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\From Local\Source Code\Collections\WebApplication1\obj\Debug\WebApplication1.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\WebApplication1.dll.config
+C:\From Local\Source Code\Collections\WebApplication1\bin\WebApplication1.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\WebApplication1.pdb
+C:\From Local\Source Code\Collections\WebApplication1\bin\Antlr3.Runtime.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\Newtonsoft.Json.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.Helpers.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.Mvc.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.Optimization.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.Razor.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.WebPages.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\WebGrease.dll
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.Helpers.xml
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.Mvc.xml
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.Optimization.xml
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.Razor.xml
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.WebPages.xml
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\From Local\Source Code\Collections\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\From Local\Source Code\Collections\WebApplication1\bin\Newtonsoft.Json.xml
+C:\From Local\Source Code\Collections\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\From Local\Source Code\Collections\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\WebApplication1.dll.config
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\WebApplication1.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\WebApplication1.pdb
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\Antlr3.Runtime.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\EntityFramework.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\Newtonsoft.Json.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.Helpers.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.Mvc.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.Optimization.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.Razor.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.WebPages.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\WebGrease.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\EntityFramework.xml
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.Helpers.xml
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.Mvc.xml
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.Optimization.xml
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.Razor.xml
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.WebPages.xml
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\Newtonsoft.Json.xml
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\obj\Debug\WebApplication1.dll
+C:\From Local\Source Code\DataAccessLayer\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\From Local\Day 3\WebApplication1\bin\WebApplication1.dll.config
+C:\From Local\Day 3\WebApplication1\bin\WebApplication1.dll
+C:\From Local\Day 3\WebApplication1\bin\WebApplication1.pdb
+C:\From Local\Day 3\WebApplication1\bin\Antlr3.Runtime.dll
+C:\From Local\Day 3\WebApplication1\bin\EntityFramework.dll
+C:\From Local\Day 3\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\From Local\Day 3\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\From Local\Day 3\WebApplication1\bin\Newtonsoft.Json.dll
+C:\From Local\Day 3\WebApplication1\bin\System.Web.Helpers.dll
+C:\From Local\Day 3\WebApplication1\bin\System.Web.Mvc.dll
+C:\From Local\Day 3\WebApplication1\bin\System.Web.Optimization.dll
+C:\From Local\Day 3\WebApplication1\bin\System.Web.Razor.dll
+C:\From Local\Day 3\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\From Local\Day 3\WebApplication1\bin\System.Web.WebPages.dll
+C:\From Local\Day 3\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\From Local\Day 3\WebApplication1\bin\WebGrease.dll
+C:\From Local\Day 3\WebApplication1\bin\EntityFramework.xml
+C:\From Local\Day 3\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\From Local\Day 3\WebApplication1\bin\System.Web.Helpers.xml
+C:\From Local\Day 3\WebApplication1\bin\System.Web.Mvc.xml
+C:\From Local\Day 3\WebApplication1\bin\System.Web.Optimization.xml
+C:\From Local\Day 3\WebApplication1\bin\System.Web.Razor.xml
+C:\From Local\Day 3\WebApplication1\bin\System.Web.WebPages.xml
+C:\From Local\Day 3\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\From Local\Day 3\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\From Local\Day 3\WebApplication1\bin\Newtonsoft.Json.xml
+C:\From Local\Day 3\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\From Local\Day 3\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\From Local\Day 3\WebApplication1\obj\Debug\WebApplication1.dll
+C:\From Local\Day 3\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\For Local\Day 4\WebApplication1\bin\WebApplication1.dll.config
+C:\For Local\Day 4\WebApplication1\bin\WebApplication1.dll
+C:\For Local\Day 4\WebApplication1\bin\WebApplication1.pdb
+C:\For Local\Day 4\WebApplication1\bin\Antlr3.Runtime.dll
+C:\For Local\Day 4\WebApplication1\bin\EntityFramework.dll
+C:\For Local\Day 4\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\For Local\Day 4\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\For Local\Day 4\WebApplication1\bin\Newtonsoft.Json.dll
+C:\For Local\Day 4\WebApplication1\bin\System.Web.Helpers.dll
+C:\For Local\Day 4\WebApplication1\bin\System.Web.Mvc.dll
+C:\For Local\Day 4\WebApplication1\bin\System.Web.Optimization.dll
+C:\For Local\Day 4\WebApplication1\bin\System.Web.Razor.dll
+C:\For Local\Day 4\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\For Local\Day 4\WebApplication1\bin\System.Web.WebPages.dll
+C:\For Local\Day 4\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\For Local\Day 4\WebApplication1\bin\WebGrease.dll
+C:\For Local\Day 4\WebApplication1\bin\EntityFramework.xml
+C:\For Local\Day 4\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\For Local\Day 4\WebApplication1\bin\System.Web.Helpers.xml
+C:\For Local\Day 4\WebApplication1\bin\System.Web.Mvc.xml
+C:\For Local\Day 4\WebApplication1\bin\System.Web.Optimization.xml
+C:\For Local\Day 4\WebApplication1\bin\System.Web.Razor.xml
+C:\For Local\Day 4\WebApplication1\bin\System.Web.WebPages.xml
+C:\For Local\Day 4\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\For Local\Day 4\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\For Local\Day 4\WebApplication1\bin\Newtonsoft.Json.xml
+C:\For Local\Day 4\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\For Local\Day 4\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\For Local\Day 4\WebApplication1\obj\Debug\WebApplication1.dll
+C:\For Local\Day 4\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\For Local\Day 7\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\For Local\Day 7\WebApplication1\obj\Debug\WebApplication1.dll
+C:\For Local\Day 7\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\For Local\Day 7\WebApplication1\bin\WebApplication1.dll.config
+C:\For Local\Day 7\WebApplication1\bin\WebApplication1.dll
+C:\For Local\Day 7\WebApplication1\bin\WebApplication1.pdb
+C:\For Local\Day 7\WebApplication1\bin\Antlr3.Runtime.dll
+C:\For Local\Day 7\WebApplication1\bin\BusinessEntities.dll
+C:\For Local\Day 7\WebApplication1\bin\BusinessLayer.dll
+C:\For Local\Day 7\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\For Local\Day 7\WebApplication1\bin\Newtonsoft.Json.dll
+C:\For Local\Day 7\WebApplication1\bin\System.Web.Helpers.dll
+C:\For Local\Day 7\WebApplication1\bin\System.Web.Mvc.dll
+C:\For Local\Day 7\WebApplication1\bin\System.Web.Optimization.dll
+C:\For Local\Day 7\WebApplication1\bin\System.Web.Razor.dll
+C:\For Local\Day 7\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\For Local\Day 7\WebApplication1\bin\System.Web.WebPages.dll
+C:\For Local\Day 7\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\For Local\Day 7\WebApplication1\bin\ViewModel.dll
+C:\For Local\Day 7\WebApplication1\bin\WebGrease.dll
+C:\For Local\Day 7\WebApplication1\bin\DataAccessLayer.dll
+C:\For Local\Day 7\WebApplication1\bin\EntityFramework.dll
+C:\For Local\Day 7\WebApplication1\bin\BusinessEntities.pdb
+C:\For Local\Day 7\WebApplication1\bin\BusinessLayer.pdb
+C:\For Local\Day 7\WebApplication1\bin\ViewModel.pdb
+C:\For Local\Day 7\WebApplication1\bin\System.Web.Helpers.xml
+C:\For Local\Day 7\WebApplication1\bin\System.Web.Mvc.xml
+C:\For Local\Day 7\WebApplication1\bin\System.Web.Optimization.xml
+C:\For Local\Day 7\WebApplication1\bin\System.Web.Razor.xml
+C:\For Local\Day 7\WebApplication1\bin\System.Web.WebPages.xml
+C:\For Local\Day 7\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\For Local\Day 7\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\For Local\Day 7\WebApplication1\bin\Newtonsoft.Json.xml
+C:\For Local\Day 7\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\For Local\Day 7\WebApplication1\bin\DataAccessLayer.pdb
+C:\For Local\Day 7\WebApplication1\bin\EntityFramework.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\WebApplication1.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\BusinessEntities.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\BusinessLayer.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\ViewModel.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\WebGrease.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\DataAccessLayer.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\EntityFramework.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\BusinessEntities.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\BusinessLayer.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\ViewModel.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\DataAccessLayer.pdb
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\bin\EntityFramework.xml
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Eric.Eric-Notebook\Downloads\Day_7\Day 7\WebApplication1\obj\Debug\WebApplication1.pdb
