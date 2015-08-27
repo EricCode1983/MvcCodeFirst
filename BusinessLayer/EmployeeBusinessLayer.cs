@@ -5,7 +5,8 @@ using System.Web;
 using BusinessEntities;
 using DataAccessLayer;
 
-namespace Models
+namespace BusinessLayer
+
 {
         public class EmployeeBusinessLayer
         {
