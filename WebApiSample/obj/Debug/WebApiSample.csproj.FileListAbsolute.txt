@@ -1,0 +1,14 @@
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\WebApiSample.dll.config
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\WebApiSample.dll
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\WebApiSample.pdb
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\Newtonsoft.Json.dll
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\System.Net.Http.Formatting.dll
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\System.Web.Http.dll
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\System.Web.Http.WebHost.dll
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\Newtonsoft.Json.xml
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\System.Net.Http.Formatting.xml
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\System.Web.Http.xml
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\bin\System.Web.Http.WebHost.xml
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\obj\Debug\WebApiSample.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\obj\Debug\WebApiSample.dll
+D:\Development\2015\source code\GOOD\MVCFramework-CodeFirst\MvcCodeFirst\WebApiSample\obj\Debug\WebApiSample.pdb
